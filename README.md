@@ -2,20 +2,20 @@
 
 This repository includes a *Mathematica* stylesheet `DarkTheme.nb` including a dark themed *style/screen environment* named *WorkingDark*
 which can be switched on and off using either the menu `Format->Screen Environment->...` or the command `SetOptions[EvaluationNotebook[],ScreenStyleEnvironment->"..."]`.
-The same stylesheet is embedded as private style definitions in the notebook `Nootebook_DarkTheme_embedded.nb` which can be used without installing the stylesheet.
+The same stylesheet is embedded as private style definitions in the notebook `Notebook_DarkTheme_embedded.nb` which can be used without installing the stylesheet.
 
 ## Installation
 Clone the repository `git clone https://github.com/MJSteil/Mathematica-DarkTheme.git`
-and/or add `DarkTheme.nb` to the folder `$UserBaseDirectory\SystemFiles\FrontEnd\StyleSheets` or use/modify `Nootebook_DarkTheme_embedded.nb` to use the embedded version of the stylesheet, which does not require installation.
+and/or add `DarkTheme.nb` to the folder `$UserBaseDirectory\SystemFiles\FrontEnd\StyleSheets` or use/modify `Notebook_DarkTheme_embedded.nb` to use the embedded version of the stylesheet, which does not require installation.
 
 ## Source structure
 * **DarkTheme.nb:** Stylesheet
 
-* **Nootebook_DarkTheme_embedded.nb:** Example notebook including an embedded version of the stylesheet using private style definitions.
+* **Notebook_DarkTheme_embedded.nb:** Example notebook including an embedded version of the stylesheet using private style definitions.
 
 ## Example: `Nootebook_DarkTheme_embedded.nb`
 
-<img src="doc/notebook.png" alt="Nootebook_DarkTheme_embedded.nb screenshot" width="800"/>
+<img src="doc/notebook.png" alt="Notebook_DarkTheme_embedded.nb screenshot" width="800"/>
 
 ## Example: `DarkTheme.nb`
 
