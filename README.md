@@ -15,7 +15,11 @@ and/or add `DarkTheme.nb` to the folder `$UserBaseDirectory\SystemFiles\FrontEnd
 
 ## Example: `Nootebook_DarkTheme_embedded.nb`
 
-<img src="doc/notebook.png" alt="Nootebook_DarkTheme_embedded.nb screenshot" width="500"/>
+<img src="doc/notebook.png" alt="Nootebook_DarkTheme_embedded.nb screenshot" width="800"/>
+
+## Example: `DarkTheme.nb`
+
+<img src="doc/stylesheet.png" alt="DarkTheme.nb screenshot" width="400"/>
 
 ## License
 MIT License
