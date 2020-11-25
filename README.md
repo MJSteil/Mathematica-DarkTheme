@@ -24,7 +24,7 @@ and/or add `DarkTheme.nb` to the folder `$UserBaseDirectory\SystemFiles\FrontEnd
 ## License
 MIT License
 
-Copyright 2020 Martin J. Steil
+Copyright (c) 2020 Martin Jakob Steil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
